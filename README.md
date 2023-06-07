@@ -6,9 +6,9 @@ Kelas  : TIF DB
 Matkul : Pemrograman mobile
 
 ## fitur twitter
-•	Introduction
-•	Appwrite & Docker Installation
-•	Important Appwrite Commands
+-	Introduction
+-	Appwrite & Docker Installation
+-	Important Appwrite Commands
 •	Appwrite Setup for Android & iOS
 •	Setting up Flutter Project
 •	Architectural & Folder Pattern

@@ -1,11 +1,11 @@
 # twitter_clone
 
-Nama   : Bagas Tri Reswara
-NIM    : 201240001065
-Kelas  : TIF DB
-Matkul : Pemrograman mobile
+- Nama   : Bagas Tri Reswara
+- NIM    : 201240001065
+- Kelas  : TIF DB
+- Matkul : Pemrograman mobile
 
-## fitur twitter
+## step membuat twitter clone
 -	Introduction
 -	Appwrite & Docker Installation
 -	Important Appwrite Commands
